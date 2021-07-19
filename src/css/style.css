@@ -1,0 +1,216 @@
+:root{
+    --preto:rgb(20, 20, 20);
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Elementos Base */
+body{
+    background: var(--preto);
+    color:white;
+}
+header .container{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo{
+    height: 25px;
+    margin: 15px;
+    padding-left: 30px;
+    margin-right: 40px;
+}
+header nav a {
+    text-decoration: none;
+    color: lightgray;
+    margin-right: 15px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+}
+header nav a:hover{
+    color: #aaa;
+}
+.searchTab{
+    margin-left: 620px;
+    height: 20px;
+    margin-right: 25px;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+}
+.notifications{
+    margin-right: 25px;
+    height: 24px;
+    width: 25px;
+    cursor: pointer;
+}
+.profile-icon{
+    margin-right: 40px;
+    height: 33px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Filme Principal */
+.filme-principal{
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/src/assets/img/capa-ruadomedo2.jpg');
+    height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 50px;
+}
+.icone .icon{
+    height: 30px;
+    width: 18px;
+    margin-right: 7px;
+}
+.icone a{
+    text-decoration: none;
+    color: #aaa;
+    vertical-align: 8px;
+    font-size: 18px;
+    font-family:'Open Sans', sans-serif;
+}
+.filme-principal .titulo{
+    height: 120px;
+    margin-top: 5px;
+}
+.filme-principal .descricao{
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    float: left;
+    display: block;
+    width: 600px;
+    margin-top: 30px;
+}
+.botoes{
+    margin-bottom: 60px;
+}
+.botao{
+    background-color: white;
+    border-radius: 5px;
+    padding: 0px 30px;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    height: 45px;
+    cursor: pointer;
+    transition: .3s ease all;
+    border-style: none;
+    margin-right: 7px;
+}
+.botao:hover{
+    background-color: rgba(240, 240, 240, .8);
+}
+.botao a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+.botao2{
+    background-color: rgba(180, 180, 180, .5);
+    margin-left: 0;
+    border-radius: 5px;
+    padding: 1px 20px;
+    color: white;
+    font-size: 17px;
+    font-family: Helvetica, sans-serif;
+    height: 45px;
+    cursor: pointer;
+    transition: .3s ease all;
+    border-style: none;
+}
+.botao2:hover{
+    background-color: rgba(180, 180, 180, .3);
+}
+.botao2 a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.lista{
+    font-size: 18px;
+    margin-top: 15px;
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+.lista2{
+    font-size: 18px;
+    margin-bottom: 0px;
+    font-family:'Arial Narrow Bold', sans-serif;
+    padding: 15px 50px;
+}
+.carroussel-flix{
+    display: block;
+    padding: 0px 50px;
+}
+.carroussel-flix2{
+    display: block;
+    padding: 0px 50px;
+}
+.owl-carousel owl-theme{
+    width: 100%;
+    position: relative;
+}
+.item {
+    position: relative;
+    transition: 350ms all;
+} 
+.item:hover { 
+    margin-bottom: 0px;
+    transform: scale(1.2);
+}
+.cines{
+    border-radius: 7px;
+}
+.carroussel-flix div.owl-nav{
+    color: #fff;
+    display: inline-block;
+    font-size: 50px;
+    margin-top: -30px;
+    text-align: center;
+}
+.owl-prev, .owl-next{
+    position: absolute;
+}
+.owl-prev{
+    left: -40px;
+    top: 30px;
+}
+.owl-next{
+    right: -40px;
+    top: 30px;
+}
+.carroussel-flix2 div.owl-nav{
+    color: #fff;
+    display: inline-block;
+    font-size: 50px;
+    margin-top: -30px;
+    text-align: center;
+}
+.carroussel-flix2 .owl-prev, .owl-next{
+    position: absolute;
+}
+.carroussel-flix2 .owl-prev{
+    left: -40px;
+    top: 120px;
+}
+.carroussel-flix2 .owl-next{
+    right: -40px;
+    top: 120px;
+}
+.item2 {
+    position: relative;
+    transition: 350ms all;
+} 
+.item2:hover { 
+    margin-bottom: 0px;
+    transform: scale(1.1);
+}

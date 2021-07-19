@@ -1,0 +1,24 @@
+@media screen and (max-width:800px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .searchTab{
+        display: none;
+    }
+    .notifications{
+        display: none;
+    }
+    .profile-icon{
+        display: none;
+    }
+    .filme-principal .descricao{
+        width: 100%;
+    }
+    .filme-principal .titulo{
+        width: 100%;
+    }
+    .icone{
+        display: none;
+    }
+}
