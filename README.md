@@ -1,10 +1,8 @@
+<!--About session-->
+<h1 align="center">Recriando a Interface do Netflix</h1>
 <p align="center">
   <img src="./src/assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
 </p>
-
-
-<!--About session-->
-<h1 align="center">Recriando a Interface do Netflix</h1>
 
 Curso do Bootcamp MRV Front End SPA Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
@@ -19,8 +17,8 @@ Neste projeto realizei algumas alterações que achei melhor.
 
 <h3>Projeto desenvolvido</h3>
 
-<p align="center"><img src="./src/assets/img/PCversion.mp4" title="Clone Netflix - DIO"></p>
-<p align="center"><img src="./src/assets/img/mobileversion.mp4" title="Clone Netflix - DIO"></p>
+<p align="center"><img src="./src/assets/img/PCversion.gif" title="Clone Netflix - DIO"></p>
+<p align="center"><img src="./src/assets/img/mobileversion.gif" title="Clone Netflix - DIO"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
