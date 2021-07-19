@@ -8,9 +8,9 @@ Curso do Bootcamp MRV Front End SPA Developer da [Digital Innovation One](https:
 
 <img src="./src/assets/img/badge.png" title="Badge" width="70" height="70">
 
-Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+Recriei a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto, aprendi a estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da minha aplicação.
 
-As imagens dos filmes incluídos neste projetos foram retiradas do site [The Movie Database - TMDb](https://www.themoviedb.org/). O carousel foi criado através do plugin jQuery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), no site contém vários exemplos de carousel.
+As imagens dos filmes incluídos nesse projetos foram retiradas do site [The Movie Database - TMDb](https://www.themoviedb.org/). O carousel foi criado através do plugin jQuery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), no site contém vários exemplos de carousel.
 
 Neste projeto realizei algumas alterações que achei melhor.
 
