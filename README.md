@@ -4,7 +4,7 @@
 
 
 <!--About session-->
-<h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
+<h1 align="center">Recriando a Interface do Netflix</h1>
 
 Curso do Bootcamp MRV Front End SPA Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
