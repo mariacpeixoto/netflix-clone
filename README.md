@@ -16,7 +16,6 @@ Neste projeto realizei algumas alterações que achei melhor.
 
 
 <h3 align="center">Projeto desenvolvido</h3>
-
 <p align="center"><img src="./src/assets/img/PCversion.gif" title="Clone Netflix - DIO"></p>
 <p align="center"><img src="./src/assets/img/mobileversion.gif" title="Clone Netflix - DIO"></p>
 
