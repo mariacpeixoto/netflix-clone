@@ -8,7 +8,7 @@
 
 Curso do Bootcamp MRV Front End SPA Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img src="https://hermes.digitalinnovation.one/tracks/2ec58739-7126-48e3-8be3-4a552d7819a9.png" title="Badge" width="70" height="70">
+<img src="./src/assets/img/badge.png" title="Badge" width="70" height="70">
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
