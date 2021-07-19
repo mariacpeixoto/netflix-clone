@@ -1,5 +1,5 @@
 <!--About session-->
-<h1 align="center">Recriando a Interface do Netflix</h1>
+<h1 align="center">Recriando a Interface da Netflix</h1>
 <p align="center">
   <img src="./src/assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
 </p>
