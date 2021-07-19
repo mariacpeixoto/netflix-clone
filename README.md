@@ -17,10 +17,10 @@ As imagens dos filmes incluídos neste projetos foram retiradas do site [The Mov
 Neste projeto realizei algumas alterações que achei melhor.
 
 
-##Projeto desenvolvido
+<h3>Projeto desenvolvido</h3>
 
 <p align="center"><img src="./src/assets/img/PCversion.mp4" title="Clone Netflix - DIO"></p>
-<p align="center"><img src="./src/assets/img/mobileversion" title="Clone Netflix - DIO"></p>
+<p align="center"><img src="./src/assets/img/mobileversion.mp4" title="Clone Netflix - DIO"></p>
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
